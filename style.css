@@ -1,0 +1,30 @@
+h1{font-size: 50px;
+}
+.name{color: hotpink;
+    font-size: 60px;
+}
+body{font-family: 'Sen', sans-serif;
+   
+}
+.half-width{ width: 40%;
+    float: left;
+    margin: 10px;
+    padding-left: 5%;
+    background-image: url( header-bg.png);
+
+}
+.half-width img{
+width: 100%;
+}
+.para1{
+    color: grey;
+}
+.link-button{
+    text-decoration: none;
+font-size: 20px;
+background-image: linear-gradient(45deg,rgb(219, 7, 113),hotpink);
+padding: 5px;
+color: white;
+border-radius: 5px;
+}
+
