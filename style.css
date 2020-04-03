@@ -1,1 +1,95 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 70px;
+    font-weight: 500;
+    margin:2px ;
+}
+#name-highlight{color: rgb(247, 19, 133);
+    font-weight:700;
+    font-size: 80px;
+    padding-left:20px;
+    
+}
+.top-sec{
+        height:700px;
+        background-image: url(images/header-bg.png);
+        padding:10  0px 10px 10px 100px;
+        background-repeat: no-repeat;
+
+}
+.half-width{width: 40%;
+            float: left;
+            margin:10px;       
+}
+#heading-div{height:450px ;
+    padding:250px 1px 50px 150px ;
+
+}
+
+.paragraph{font-size: 20px;
+            color: dimgray;
+            margin:30px 15px;
+            padding:20px;
+}
+.link-button{color:white;
+            text-decoration: none;
+            background-color:rgb(247, 19, 133);
+            font-size: 15px;
+            margin:30px 20px;
+            padding: 10px 20px;
+            border-radius:5px;
+            font-weight: bold;
+            
+        
+}
+#top-pic{padding:150px 10px 50px 10px ;
+        
+
+}
+#biography-sec{
+    background-image: url(images/biography-bg.png);
+    height:700px;
+    background-repeat: no-repeat;
+    margin-top:70px;
+    padding:50px 10px 10px 20px ;
+    border:1px solid blue ;
+
+}
+.biography-div{
+    width: 40%;
+    float: left;
+}
+
+
+#bio-pic {height:100%;
+        padding:20px 20px 70px 50px ; 
+}
+#bio-h2{font-size: 40px;
+    padding:150px 1px 10px 300px;
+    width: 400px;
+}
+#bio-para{margin:20px;
+        font-size: 20px;
+        padding-left: 150px;
+         color: dimgray;
+}
+.bio-box{width:50%;
+        padding-left:40%;
+
+}
+.bio-button{ margin-left:100px;
+            
+
+}
+#work-sec{ margin-top: 10px;
+    border: green 1px solid;
+
+}
+
+
+
+
 
